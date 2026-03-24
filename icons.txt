@@ -1,0 +1,2 @@
+Icons support added for task
+Additional icon support added
